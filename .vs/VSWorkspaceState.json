@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\pages",
+    "\\src\\pages\\hello-ionic",
+    "\\src\\pages\\item-details",
+    "\\src\\pages\\list"
+  ],
+  "SelectedNode": "\\src\\pages\\list\\list.ts",
+  "PreviewInSolutionExplorer": false
+}
